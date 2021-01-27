@@ -110,6 +110,7 @@ int determineWinners(Competitor competitor[], int numCompetitors, int startIndex
         else {
             return 0;
         }
+        return 0;
 }
 
 
@@ -292,7 +293,7 @@ int getNYTcompaniesData(string fileName, string industryOfEachCompanyInFile[], s
                 
                 index = 0;
                 tempString = "";
-                if (hasPayRatio = true){ // then we know how many lines to go down to get pay ratio rank
+                if (hasPayRatio == true){ // then we know how many lines to go down to get pay ratio rank
                     for (int k = 0; k < 7; k++){ getline(myfile, line); } // go down 7 more lines to get the pay ratio rank
                     eachPayRatioRank[j] = line.substr(38, 5); // take 3 characters from the current line now
                     // pos = eachPayRatioRank[j].find("</");    //delimiting character
