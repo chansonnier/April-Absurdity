@@ -11,7 +11,7 @@ Every *April*, the majority of the biggest public companies based in the US subm
 
 ## Installation
 
-1) run the command `git clone https://github.com/chansonnier/april-absurdity.git` in your terminal.
+1) run the command `git clone https://github.com/chansonnier/April-Absurdity.git` in your terminal.
 
 2) run the command `g++ -std=c++11 -o aprilAbsurdity Company.cpp Competitor.cpp Industry.cpp main.cpp Tournament.cpp` to compile the game's files into a single output file called aprilAbsurdity.
 
