@@ -1,0 +1,700 @@
+Score:
+78
+Chosen metric:
+payRatio
+Player's name:
+bob
+
+Estee Lauder
+[32m+8 
+AbbVie
+[33m
+Amgen
+[31m+0 
+Arrow Electronics
+[33m
+Linde
+[32m+8 
+Bank of America
+[33m
+Anadarko Petroleum
+[33m
+Allstate
+[32m+8 
+NextEra Energy
+[33m
+Fidelity National Information Services
+[32m+8 
+Activision Blizzard
+[33m
+Oracle
+[32m+9 
+Allison Transmission Holdings
+[32m+8 
+Goldman Sachs
+[33m
+Morgan Stanley
+[33m
+General Electric
+[32m+8 
+Estee Lauder
+[32m+4 
+Arrow Electronics
+[33m
+Linde
+[32m+4 
+Allstate
+[33m
+Fidelity National Information Services
+[33m
+Oracle
+[32m+4 
+Allison Transmission Holdings
+[33m
+General Electric
+[32m+4 
+Estee Lauder
+[32m+2 
+Linde
+[33m
+Oracle
+[32m+2 
+General Electric
+[33m
+Estee Lauder
+[32m+1 
+Oracle
+[33m
+Estee Lauder
+[33m
+
+Score:
+70
+Chosen metric:
+payRatio
+Player's name:
+john
+
+Thor Industries
+[32m+9 
+D.R. Horton
+[33m
+CoStar Group
+[33m
+Ford
+[32m+8 
+Aramark
+[32m+8 
+Aon
+[33m
+Equifax
+[33m
+Hilton Worldwide Holdings
+[32m+8 
+AT&T
+[33m
+Amgen
+[31m+0 
+Texas Instruments
+[32m+8 
+ConocoPhillips
+[33m
+Salesforce.com
+[33m
+TJX Companies
+[32m+8 
+NVR
+[33m
+Apple
+[31m+0 
+Thor Industries
+[31m+0 
+Ford
+[33m
+Aramark
+[32m+5 
+Hilton Worldwide Holdings
+[33m
+AT&T
+[32m+4 
+Texas Instruments
+[33m
+TJX Companies
+[32m+5 
+NVR
+[33m
+Ford
+[33m
+Aramark
+[32m+3 
+AT&T
+[33m
+TJX Companies
+[32m+2 
+Aramark
+[33m
+TJX Companies
+[32m+2 
+TJX Companies
+[33m
+
+Score:
+80
+Chosen metric:
+payRatio
+Player's name:
+Lisa
+
+TJX Companies
+[32m+9 
+Liberty Media
+[33m
+Prologis
+[32m+8 
+NextEra Energy
+[33m
+Mastercard
+[33m
+Chubb Limited
+[32m+9 
+Pfizer
+[32m+8 
+Morgan Stanley
+[33m
+Johnson & Johnson
+[33m
+Omnicom Group
+[32m+8 
+D.R. Horton
+[33m
+Ford
+[32m+9 
+Texas Instruments
+[33m
+Baxter International
+[32m+8 
+Xerox
+[32m+8 
+Marsh & McLennan
+[33m
+TJX Companies
+[32m+4 
+Prologis
+[33m
+Chubb Limited
+[32m+4 
+Pfizer
+[33m
+Omnicom Group
+[32m+5 
+Ford
+[33m
+Baxter International
+[31m+0 
+Xerox
+[33m
+TJX Companies
+[33m
+Chubb Limited
+[31m+0 
+Omnicom Group
+[33m
+Xerox
+[31m+0 
+TJX Companies
+[33m
+Omnicom Group
+[31m+0 
+TJX Companies
+[33m
+
+Score:
+74
+Chosen metric:
+payRatio
+Player's name:
+Chris
+
+Amgen
+[33m
+Intuit
+[32m+8 
+Chubb Limited
+[33m
+Twenty-First Century Fox
+[32m+8 
+AbbVie
+[33m
+Target
+[32m+8 
+Fedex
+[32m+8 
+Salesforce.com
+[33m
+Interpublic Group of Companies
+[32m+8 
+Nucor
+[33m
+Chevron
+[33m
+Qualcomm
+[32m+8 
+PayPal
+[33m
+Palo Alto Networks
+[31m+0 
+TransDigm Group
+[32m+8 
+BioMarin Pharmaceutical
+[33m
+Intuit
+[33m
+Twenty-First Century Fox
+[32m+4 
+Target
+[32m+4 
+Fedex
+[33m
+Interpublic Group of Companies
+[33m
+Qualcomm
+[32m+4 
+PayPal
+[33m
+TransDigm Group
+[31m+0 
+Twenty-First Century Fox
+[33m
+Target
+[32m+3 
+Qualcomm
+[33m
+PayPal
+[32m+2 
+Target
+[32m+1 
+PayPal
+[33m
+Target
+[33m
+
+Score:
+80
+Chosen metric:
+payRatio
+Player's name:
+Rachel
+
+Skechers U.S.A.
+[33m
+Mattel
+[32m+16 
+CVS Health
+[32m+16 
+Regeneron Pharmaceuticals
+[33m
+Chipotle Mexican Grill
+[32m+16 
+AMC Networks
+[33m
+Activision Blizzard
+[32m+8 
+Kinder Morgan
+[33m
+Marathon Petroleum
+[33m
+Chubb Limited
+[31m+0 
+Johnson & Johnson
+[31m+0 
+International Paper
+[33m
+Bristol-Myers Squibb
+[33m
+Mondelez International
+[32m+8 
+Williams-Sonoma
+[32m+16 
+Wynn Resorts
+[33m
+Mattel
+[33m
+CVS Health
+[31m+0 
+Chipotle Mexican Grill
+[33m
+Activision Blizzard
+[31m+0 
+Marathon Petroleum
+[33m
+International Paper
+[31m+0 
+Mondelez International
+[31m+0 
+Williams-Sonoma
+[33m
+Mattel
+[33m
+Chipotle Mexican Grill
+[31m+0 
+Marathon Petroleum
+[31m+0 
+Williams-Sonoma
+[33m
+Mattel
+[33m
+Williams-Sonoma
+[31m+0 
+Mattel
+[33m
+
+Score:
+82
+Chosen metric:
+payRatio
+Player's name:
+Alex
+
+DaVita 
+[32m+16 
+Biogen
+[33m
+Estee Lauder
+[32m+8 
+DowDuPont
+[33m
+Celgene
+[31m+0 
+LyondellBasell Industries
+[33m
+D.R. Horton
+[31m+0 
+Lockheed Martin
+[33m
+PTC
+[33m
+Darden Restaurants
+[32m+8 
+Archer Daniels Midland
+[32m+8 
+Black Knight
+[33m
+Capital One Financial
+[33m
+Fidelity National Information Services
+[32m+8 
+Salesforce.com
+[33m
+Raytheon
+[32m+8 
+DaVita 
+[33m
+Estee Lauder
+[32m+4 
+LyondellBasell Industries
+[31m+0 
+Lockheed Martin
+[33m
+Darden Restaurants
+[32m+8 
+Archer Daniels Midland
+[33m
+Fidelity National Information Services
+[32m+8 
+Raytheon
+[33m
+Estee Lauder
+[32m+2 
+Lockheed Martin
+[33m
+Darden Restaurants
+[32m+2 
+Fidelity National Information Services
+[33m
+Estee Lauder
+[32m+2 
+Darden Restaurants
+[33m
+Estee Lauder
+[33m
+
+Score:
+106
+Chosen metric:
+payRatio
+Player's name:
+Sara
+
+L3 Technologies
+[33m
+Norwegian Cruise Line Holdings
+[32m+8 
+Hologic
+[33m
+McDonald's
+[32m+8 
+Molina Healthcare
+[33m
+Scientific Games
+[32m+8 
+Thermo Fisher Scientific
+[32m+8 
+Microsoft
+[33m
+Sirius XM Holdings
+[33m
+NVR
+[32m+16 
+Wynn Resorts
+[32m+8 
+ServiceNow
+[33m
+NextEra Energy
+[32m+8 
+AbbVie
+[33m
+Texas Instruments
+[33m
+Discovery
+[32m+8 
+Norwegian Cruise Line Holdings
+[33m
+McDonald's
+[32m+8 
+Scientific Games
+[32m+4 
+Thermo Fisher Scientific
+[33m
+NVR
+[32m+8 
+Wynn Resorts
+[33m
+NextEra Energy
+[33m
+Discovery
+[32m+4 
+McDonald's
+[32m+4 
+Scientific Games
+[33m
+NVR
+[33m
+Discovery
+[32m+4 
+McDonald's
+[32m+2 
+Discovery
+[33m
+McDonald's
+[33m
+
+Score:
+66
+Chosen metric:
+payRatio
+Player's name:
+paul
+
+Cigna
+[33m
+Walmart
+[32m+8 
+DowDuPont
+[33m
+Apache
+[31m+0 
+Johnson Controls International
+[32m+8 
+Thor Industries
+[33m
+Qualcomm
+[33m
+Chipotle Mexican Grill
+[32m+8 
+D.R. Horton
+[33m
+Valero Energy
+[31m+0 
+Sirius XM Holdings
+[33m
+Johnson & Johnson
+[32m+8 
+Las Vegas Sands
+[33m
+Activision Blizzard
+[31m+0 
+Newell Brands
+[32m+8 
+Marsh & McLennan
+[33m
+Walmart
+[32m+4 
+DowDuPont
+[33m
+Johnson Controls International
+[33m
+Chipotle Mexican Grill
+[32m+4 
+D.R. Horton
+[33m
+Johnson & Johnson
+[32m+4 
+Las Vegas Sands
+[32m+8 
+Newell Brands
+[33m
+Walmart
+[33m
+Chipotle Mexican Grill
+[32m+4 
+Johnson & Johnson
+[31m+0 
+Las Vegas Sands
+[33m
+Chipotle Mexican Grill
+[32m+2 
+Las Vegas Sands
+[33m
+Chipotle Mexican Grill
+[33m
+
+Score:
+46
+Chosen metric:
+payRatio
+Player's name:
+Robert
+
+Celgene
+[33m
+United Technologies
+[32m+8 
+LyondellBasell Industries
+[33m
+Chesapeake Energy
+[32m+8 
+Boeing
+[33m
+Thermo Fisher Scientific
+[32m+8 
+Universal Health Services
+[33m
+Liberty Media
+[31m+0 
+Honeywell International
+[33m
+Ford
+[31m+0 
+HP
+[33m
+Aon
+[31m+0 
+Activision Blizzard
+[33m
+General Electric
+[32m+8 
+Xerox
+[33m
+Humana
+[31m+0 
+United Technologies
+[33m
+Chesapeake Energy
+[31m+0 
+Thermo Fisher Scientific
+[33m
+Universal Health Services
+[32m+8 
+Honeywell International
+[33m
+HP
+[31m+0 
+General Electric
+[33m
+Xerox
+[32m+4 
+United Technologies
+[31m+0 
+Universal Health Services
+[33m
+Honeywell International
+[33m
+Xerox
+[32m+2 
+Universal Health Services
+[33m
+Xerox
+[31m+0 
+Universal Health Services
+[33m
+
+Score:
+130
+Chosen metric:
+payRatio
+Player's name:
+Tara
+
+McDonald's
+[32m+16 
+Nexstar Media Group
+[33m
+Discovery
+[32m+16 
+Sirius XM Holdings
+[33m
+Williams-Sonoma
+[32m+16 
+International Paper
+[33m
+General Motors
+[33m
+L3 Technologies
+[32m+8 
+Schlumberger
+[33m
+Skechers U.S.A.
+[32m+8 
+Honeywell International
+[32m+16 
+Global Payments
+[33m
+Activision Blizzard
+[33m
+Scientific Games
+[32m+8 
+Viacom
+[32m+8 
+Eli Lilly
+[33m
+McDonald's
+[32m+8 
+Discovery
+[33m
+Williams-Sonoma
+[32m+4 
+L3 Technologies
+[33m
+Skechers U.S.A.
+[32m+4 
+Honeywell International
+[33m
+Scientific Games
+[33m
+Viacom
+[32m+8 
+McDonald's
+[33m
+Williams-Sonoma
+[32m+4 
+Skechers U.S.A.
+[32m+4 
+Viacom
+[33m
+Williams-Sonoma
+[32m+2 
+Skechers U.S.A.
+[33m
+Williams-Sonoma
+[33m
+
